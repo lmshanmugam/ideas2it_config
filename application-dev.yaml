@@ -1,0 +1,10 @@
+spring:
+    profiles: dev
+name: dev-YAML
+environment: test
+#servers: 
+#    - www.abc.test.com
+#    - www.xyz.test.com
+
+properties  :
+  message : this is from applocation dev.yaml
