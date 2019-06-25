@@ -1,6 +1,0 @@
-#spring:
-#  profiles:
-#    active  : dev
-#   
-message:
-  from  : application_yaml
