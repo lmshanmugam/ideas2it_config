@@ -17,4 +17,4 @@ spring:
     password: password
    
 message:
-  from  : user_config_yaml
+  from  : user_yaml
