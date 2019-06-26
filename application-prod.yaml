@@ -1,7 +1,9 @@
 spring:
-    profiles: prod
-name: prod-YAML
-environment: production
-#servers: 
-#    - www.abc.com
-#    - www.xyz.com
+ jpa:
+   datasource:
+    url: jdbc:mysql://localhost:3306/classicmodels
+    username: ubuntu
+    password: password
+
+message:
+from  : application_prod_yaml
