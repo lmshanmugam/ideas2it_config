@@ -1,2 +1,7 @@
+spring :
+ application :
+  name : customers
+  active : dev,prod,
+
 message:
   from  : user_dev_yaml
