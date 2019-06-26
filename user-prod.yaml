@@ -17,4 +17,4 @@ spring:
   password: password
    
 message:
-  from  : user_prod_hello_updated_again_yaml
+  from  : user_prod_again_again_yaml
