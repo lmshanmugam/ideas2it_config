@@ -1,2 +1,8 @@
+spring:
+ jpa:
+  show-sql : true
+  hibernate:
+   ddl-auto: update
+   
 message:
   from  : application_yaml
