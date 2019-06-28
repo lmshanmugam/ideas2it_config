@@ -1,10 +1,2 @@
-redis :
- cache : 
-  downstream :
-   enabled: true
-   defaultt:
-    host: user dev
-    port: 6379
-    
 message:
   from  : user_dev_asdlfkj_yaml
