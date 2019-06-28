@@ -9,7 +9,7 @@ redis :
   downstream :
    enabled: true
    defaultt:
-    host: localhost
+    host: from application dev
     port: 6379
 
 message:
