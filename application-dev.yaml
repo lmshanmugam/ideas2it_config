@@ -3,6 +3,14 @@ spring:
   url: jdbc:mysql://localhost:3306/classicmodels
   username: ubuntu
   password: password
+  
+redis :
+ cache : 
+  downstream :
+   enabled: true
+   defaultt:
+    host: localhost
+    port: 6379
 
 message:
   from  : application_dev_yaml
