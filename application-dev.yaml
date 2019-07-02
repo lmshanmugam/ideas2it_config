@@ -8,9 +8,8 @@ redis :
  cache : 
   downstream :
    enabled: true
-   defaultt:
-    host: from application dev
-    port: 6379
+   host: from application dev
+   port: 6379
 
 message:
   from  : application_dev_yaml
