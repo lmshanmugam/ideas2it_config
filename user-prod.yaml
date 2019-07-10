@@ -1,8 +1,3 @@
-spring:
- datasource:
-  url: jdbc:mysql://localhost:3306/classicmodels
-#   username: ubuntu
-#   password: password
 
 message:
   from  : user_prod000000000000000000000000_again_yaml
